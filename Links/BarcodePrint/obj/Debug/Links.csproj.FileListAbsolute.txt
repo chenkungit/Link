@@ -1,0 +1,16 @@
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\Links.exe
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\Links.pdb
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\HtmlAgilityPack.dll
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\System.Data.dll
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\System.Deployment.dll
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\System.dll
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\System.Drawing.dll
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\System.Windows.Forms.dll
+D:\瓦罗兰\Links\BarcodePrint\bin\Debug\System.Xml.dll
+D:\瓦罗兰\Links\BarcodePrint\obj\Debug\ResolveAssemblyReference.cache
+D:\瓦罗兰\Links\BarcodePrint\obj\Debug\Links.Main.resources
+D:\瓦罗兰\Links\BarcodePrint\obj\Debug\Links.Properties.Resources.resources
+D:\瓦罗兰\Links\BarcodePrint\obj\Debug\Links.csproj.GenerateResource.Cache
+D:\瓦罗兰\Links\BarcodePrint\obj\Debug\Links.exe.licenses
+D:\瓦罗兰\Links\BarcodePrint\obj\Debug\Links.exe
+D:\瓦罗兰\Links\BarcodePrint\obj\Debug\Links.pdb

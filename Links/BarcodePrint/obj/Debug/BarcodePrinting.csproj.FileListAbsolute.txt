@@ -1,0 +1,10 @@
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\bin\Debug\BarcodePrinting.exe
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\bin\Debug\BarcodePrinting.pdb
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\ResolveAssemblyReference.cache
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\BarcodePrinting.FrmBarcodePrint.resources
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\BarcodePrinting.Properties.Resources.resources
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\BarcodePrinting.csproj.GenerateResource.Cache
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\BarcodePrinting.exe
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\BarcodePrinting.pdb
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\BarcodePrinting.XtraReport1.resources
+D:\AmvigProject\DGZY\BarcodePrinting\BarcodePrinting\obj\Debug\BarcodePrinting.exe.licenses
